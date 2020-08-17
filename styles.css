@@ -1,0 +1,92 @@
+body {
+  text-align: center;
+  background-color: #89c9b8;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #DBEDF3;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #092532;
+}
+
+footer {
+  color: #DBEDF3;
+  font-family: sans-serif;
+}
+
+.m {
+  background-image: url("images/rain.png");
+}
+
+.y {
+  background-image: url("images/head.png");
+  background-position: center;
+}
+
+.l {
+  background-image: url("images/babyshark.png");
+  background-position: center;
+}
+
+.o {
+  background-image: url("images/followme.png");
+  background-position: center;
+}
+
+.v {
+  background-image: url("images/claphands.png");
+  background-position: center;
+}
+
+.e {
+  background-image: url("images/animaldance.png");
+  background-position: center;
+}
+
+.💕 {
+    background-image: url("images/sunshine.png");
+    background-position: center;
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  border: 10px solid #092532;
+  font-size: 5rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: white;
+  text-shadow: 5px 0 #092532;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: #c7e2b2;
+}
+
+.mylove {
+  height: 150px;
+  width: 150px;
+  margin-left: 20px;
+}
