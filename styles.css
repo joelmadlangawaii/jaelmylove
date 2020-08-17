@@ -90,3 +90,12 @@ footer {
   width: 150px;
   margin-left: 20px;
 }
+
+.refreshButton {
+  background-color: #c7e2b2;
+  font-family: "Arvo", cursive;
+    border: 5px solid #092532;
+    width: 170px;
+    height: 50px;
+}
+
